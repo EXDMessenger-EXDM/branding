@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 100">
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <rect x=".5" y=".5" width="59" height="19"/>
+      <path d="m59,1v18H1V1h58m1-1H0v20h60V0h0Z"/>
+    </g>
+    <g>
+      <rect x=".5" y="20.5" width="19" height="19"/>
+      <path d="m19,21v18H1v-18h18m1-1H0v20h20v-20h0Z"/>
+    </g>
+    <g>
+      <rect x=".5" y="40.5" width="59" height="19"/>
+      <path d="m59,41v18H1v-18h58m1-1H0v20h60v-20h0Z"/>
+    </g>
+    <g>
+      <rect x=".5" y="60.5" width="19" height="19"/>
+      <path d="m19,61v18H1v-18h18m1-1H0v20h20v-20h0Z"/>
+    </g>
+    <g>
+      <rect x=".5" y="80.5" width="59" height="19"/>
+      <path d="m59,81v18H1v-18h58m1-1H0v20h60v-20h0Z"/>
+    </g>
+    <g>
+      <rect x="100.5" y="40.5" width="19" height="19"/>
+      <path d="m119,41v18h-18v-18h18m1-1h-20v20h20v-20h0Z"/>
+    </g>
+    <g>
+      <rect x="80.5" y=".5" width="19" height="39"/>
+      <path d="m99,1v38h-18V1h18m1-1h-20v40h20V0h0Z"/>
+    </g>
+    <g>
+      <rect x="80.5" y="60.5" width="19" height="39"/>
+      <path d="m99,61v38h-18v-38h18m1-1h-20v40h20v-40h0Z"/>
+    </g>
+    <g>
+      <rect x="120.5" y=".5" width="19" height="39"/>
+      <path d="m139,1v38h-18V1h18m1-1h-20v40h20V0h0Z"/>
+    </g>
+    <g>
+      <rect x="120.5" y="60.5" width="19" height="39"/>
+      <path d="m139,61v38h-18v-38h18m1-1h-20v40h20v-40h0Z"/>
+    </g>
+    <g>
+      <rect x="280.5" y="40.5" width="19" height="19"/>
+      <path d="m299,41v18h-18v-18h18m1-1h-20v20h20v-20h0Z"/>
+    </g>
+    <g>
+      <rect x="160.5" y=".5" width="19" height="99"/>
+      <path d="m179,1v98h-18V1h18m1-1h-20v100h20V0h0Z"/>
+    </g>
+    <g>
+      <rect x="180.5" y=".5" width="19" height="19"/>
+      <path d="m199,1v18h-18V1h18m1-1h-20v20h20V0h0Z"/>
+    </g>
+    <g>
+      <rect x="180.5" y="80.5" width="19" height="19"/>
+      <path d="m199,81v18h-18v-18h18m1-1h-20v20h20v-20h0Z"/>
+    </g>
+    <g>
+      <rect x="200.5" y="20.5" width="19" height="59"/>
+      <path d="m219,21v58h-18V21h18m1-1h-20v60h20V20h0Z"/>
+    </g>
+    <g>
+      <rect x="240.5" y=".5" width="19" height="99"/>
+      <path d="m259,1v98h-18V1h18m1-1h-20v100h20V0h0Z"/>
+    </g>
+    <g>
+      <rect x="260.5" y="20.5" width="19" height="19"/>
+      <path d="m279,21v18h-18v-18h18m1-1h-20v20h20v-20h0Z"/>
+    </g>
+    <g>
+      <rect x="300.5" y="20.5" width="19" height="19"/>
+      <path d="m319,21v18h-18v-18h18m1-1h-20v20h20v-20h0Z"/>
+    </g>
+    <g>
+      <rect x="320.5" y=".5" width="19" height="99"/>
+      <path d="m339,1v98h-18V1h18m1-1h-20v100h20V0h0Z"/>
+    </g>
+  </g>
+</svg>
